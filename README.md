@@ -14,5 +14,5 @@ To get started with Insectify, clone this repository and install the required de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/insectify.git
+   git clone https://github.com/abyazdi/insectify.git
    cd insectify
